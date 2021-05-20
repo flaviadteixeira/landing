@@ -1,0 +1,15 @@
+.footer {
+  background-color: #333333;
+  text-align: center;
+  padding: 60px;
+}
+
+.media a {
+font-size: 30px;
+padding: 5px;
+color: #1EDD88;
+}
+
+.media p {
+  color: #999999;
+}
